@@ -1,2 +1,3 @@
 # shroomcoon.github.io
-![shroomcoon-logo-512.png](ShroomCoon logo.)
+
+![ShroomCoon logo](shroomcoon-logo-512.png)
